@@ -31,6 +31,7 @@
     "electron-builder": "^21.2.0",
     "electron-packager": "^14.0.5",
     "fresh": "^0.5.2",
+    "lodash": "^4.17.12",
     "nodemon": "^1.19.1"
   }
 }

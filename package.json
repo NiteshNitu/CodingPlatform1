@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/NiteshNitu/CodingPlatform1#readme",
   "dependencies": {
-    "electron": "^6.0.6",
+    "electron": "^9.4.0",
     "electron-notify": "^0.1.0",
     "remote": "^0.2.6",
     "request": "^2.88.0",
